@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Eduardo e estou estudando Análise e Desenvolvimento de Sistemas.
+## João Eduardo
 
 <div align="center">
   <a href="https://github.com/JoaoEduardoLima">
