@@ -10,5 +10,5 @@
   
 <div>
   <a href="https://www.linkedin.com/in/joaoeduardoflima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://joaoeduardolima.github.io/portfolio/#projetos" target="_blank"><img src="https://img.shields.io/badge/-Projeto-%230077B5?style=for-the-badge&logo=about.me&logoColor=white" target="_blank"></a> 
+  <a href="https://joaoeduardolima.github.io/portfolio/#sobre" target="_blank"><img src="https://img.shields.io/badge/-Projeto-%230077B5?style=for-the-badge&logo=about.me&logoColor=white" target="_blank"></a> 
 </div>
